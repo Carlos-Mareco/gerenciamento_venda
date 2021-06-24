@@ -8,6 +8,5 @@ public class Main {
         loja.novoFuncionario("Carlos Henrique", "012345678910", "123", 2);
 
         Menu.principal(loja);
-        
     }
 }
