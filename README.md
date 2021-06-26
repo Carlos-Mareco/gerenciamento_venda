@@ -8,8 +8,7 @@ Usando o compilador java, contudo ele deve estar configurado no path do seu sist
 Certifique-se de estar no diretório do programa.
 
 ```bash
-mkdir bin
-javac -d bin *.java
+mkdir bin && javac -d bin *.java
 ```
 E para executar, ainda no mesmo diretório do programa, use :
 
@@ -42,12 +41,9 @@ Enquanto que as classes [Vendedor](./Vendedor.java) e [Gerente](./Gerente.java) 
 
 ![Menu_Inicial](/screenshots/menu_inicial.png)
 
-
 ![Menu_Vendedor](/screenshots/menu_vendedor.png)
 
-
 ![Menu_Gerente](/screenshots/menu_gerente.png)
-
 
 ## Ambiente de criação e teste
 
