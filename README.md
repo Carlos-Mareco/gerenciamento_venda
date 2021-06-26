@@ -39,23 +39,20 @@ Enquanto que as classes [Vendedor](./Vendedor.java) e [Gerente](./Gerente.java) 
 
 É reponsável pela GUI (Graphical User Interface, ou seja, Interface Gráfica do Usuário) da loja.
 
-![Menu_Inicial](/screenshots/menu_inicial.png)
-
-![Menu_Vendedor](/screenshots/menu_vendedor.png)
-
-![Menu_Gerente](/screenshots/menu_gerente.png)
+![Menu_Inicial](/screenshots/menu_inicial.png)<br>
+![Menu_Vendedor](/screenshots/menu_vendedor.png)<br>
+![Menu_Gerente](/screenshots/menu_gerente.png)<br>
 
 ## Ambiente de criação e teste
 
-**Informação do OS:** Linux Mint 20.1 Cinnamon.
-**Kernel do Linux:** 5.4.0-77-generic.  
-**Processador:** Intel© Core™ i7-7500U CPU @ 2.70GHz × 2.  
-**Memória:** 7.7 GiB.  
-**Editor/IDE:** [Visual Studio Code 1.57.1](https://code.visualstudio.com/).                                     
-**Java:** [Oracle Java SE JDK 11.0.11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+**Informação do OS:** Linux Mint 20.1 Cinnamon.<br>
+**Kernel do Linux:** 5.4.0-77-generic.<br>
+**Processador:** Intel© Core™ i7-7500U CPU @ 2.70GHz × 2.<br>
+**Memória:** 7.7 GiB.<br>
+**Editor/IDE:** [Visual Studio Code 1.57.1](https://code.visualstudio.com/).<br>
+**Java:** [Oracle Java SE JDK 11.0.11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).<br>
 
 ## Considerações finais
 
-Este programa faz parte de um dos componentes avaliativos da disciplina de Programação III da Universidade Federal do Amapá do curso de Ciência da Computação.
-
+Este programa faz parte de um dos componentes avaliativos da disciplina de Programação III da Universidade Federal do Amapá do curso de Ciência da Computação.<br>
 Este programa não tem intuito de uso comercial.
