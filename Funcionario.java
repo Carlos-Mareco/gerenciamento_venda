@@ -25,7 +25,7 @@ public abstract class Funcionario {
     }
     public String getCpfFormatado() {
         String cpf = this.getCpf();
-        if(cpf.length() == 12){
+        if(cpf.length() == 11){
             cpf = this.cpf.substring(0, 3)+"."+this.cpf.substring(3, 6)+"."+this.cpf.substring(6, 9)+"-"+this.cpf.substring(9,11);
         }
         return cpf;
